@@ -1,8 +1,8 @@
 # Створення сокет-клієнта
-![](\img\server_connect.png)
-![](\img\firstChat.png)
-![](\img\secondChat.png)
-![](\img\about.png)
+![](/img/server_connect.png)
+![](/img/firstChat.png)
+![](/img/secondChat.png)
+![](/img/about.png)
 
 
 ### Завдання на "п'ять"
